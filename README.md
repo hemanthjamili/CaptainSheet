@@ -4,8 +4,7 @@ This Spring Boot Project is developed to illustrate CRUD operations that can be 
 
 ### Prerequisites
 
-1. Your local system mush have JDK1.8
-2. Docker must be installed in your machine.
+1. Docker must be installed in your machine.
 
 ### Getting Started
 
