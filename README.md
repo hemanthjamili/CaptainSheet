@@ -35,4 +35,4 @@ By default, the captainSheet has 10 cells added. There are nine rest-end points 
 
 ## Authors
 
-* **Naga Sai Hemanth Jamili** - *Initial work* - [hemanthjamili](https://github.com/hemanthjamili)
+* **Naga Sai Hemanth Jamili** - *Initial work* - [hemanthjamili](https://www.linkedin.com/in/hemanthjamili/)
