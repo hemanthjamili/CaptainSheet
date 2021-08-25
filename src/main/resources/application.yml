@@ -1,0 +1,10 @@
+debug: false
+server:
+  port: 8080
+  servlet:
+    context-path: /
+spring:
+  profiles: local,default
+  error:
+   whitelabel:
+    enabled: false
