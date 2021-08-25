@@ -1,6 +1,6 @@
 # Captain Sheet - Application
 
-This Spring Boot Project is developed to illustrate CRUD operation that can be performed on a custom datastructure and get the cell ID by height value. Technologies used are J2EE, Spring Boot, HTML, CSS.
+This Spring Boot Project is developed to illustrate CRUD operations that can be performed on a custom datastructure and get the cell ID by height value. Technologies used are J2EE, Spring Boot.
 
 ### Prerequisites
 
