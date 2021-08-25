@@ -15,7 +15,7 @@ This Spring Boot Project is developed to illustrate CRUD operations that can be 
 
 ### REST End-points
 
-By default, the captainSheet has 10 cells added. There are nine rest-end points for this application. The context-path is set as "/". Hence for home page, kindly access http://localhost:8080
+By default, the captainSheet has 10 cells added. There are nine rest-end points for this application.
 
 * To add a new cell to the sheet- http://localhost:8080/addCell - POST method
 * To add a list of cells to the sheet - https://localhost:8080/addAllCells - POST method
